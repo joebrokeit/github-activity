@@ -2,4 +2,4 @@
 ## Displays a particular user events at the command line in json format
 
 # USAGE
-### github-activity <github-username>
+### github-activity github-username
