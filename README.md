@@ -1,6 +1,10 @@
 # A CLI Github User Events Tracker
 ## Displays a particular user events at the command line in json format
-[github-activity](https://github.com/joebrokeit/github-activity.git)
+
+# GitHub Activity Tracker
+
+🔗 **Repository**: [github.com/joebrokeit/github-activity](https://github.com/joebrokeit/github-activity)
+
 
 # USAGE
 ### github-activity github-username
