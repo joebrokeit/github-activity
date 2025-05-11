@@ -1,9 +1,22 @@
 # A CLI Github User Events Tracker
 ## Displays a particular user events at the command line in json format
 
-# Project Name
+# GitHub Activity Tracker
 
-📌 **Project URL**: https://github.com/joebrokeit/github-activity
+Fetches user activity from GitHub API
+
+## Project URL
+**Official Repository**:  
+https://github.com/joebrokeit/github-activity
+
+## Features
+- Fetch GitHub user activity via CLI
+- Display recent events in terminal
+- Handles JSON responses from GitHub API
+
+## Usage
+```bash```
+cargo run -- <github_username>
 
 # USAGE
 ### github-activity github-username
