@@ -1,13 +1,12 @@
 # A CLI Github User Events Tracker
 ## Displays a particular user events at the command line in json format
 
-# GitHub Activity Tracker
-
 Fetches user activity from GitHub API
 
-## Project URL
-**Official Repository**:  
-https://github.com/joebrokeit/github-activity
+## 📌 Project Submission
+
+This solution was submitted for the [GitHub User Activity project on roadmap.sh](https://roadmap.sh/projects/github-user-activity?fl=1).
+
 
 ## Features
 - Fetch GitHub user activity via CLI
