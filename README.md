@@ -18,8 +18,6 @@ https://github.com/joebrokeit/github-activity
 ```bash```
 cargo run -- <github_username>
 
-# USAGE
-### github-activity github-username
 
 #### jhevents, publicevents and jevents are some of the output
 
